@@ -14,7 +14,7 @@ This is a **Forum Website** built using **PHP, MySQL, HTML, CSS, and JavaScript*
 - Question posting and commenting system
 - Responsive design for user-friendly interaction
 
-## 📂 Installation
+
 
 ## 📂 Installation
 
