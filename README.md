@@ -16,18 +16,24 @@ This is a **Forum Website** built using **PHP, MySQL, HTML, CSS, and JavaScript*
 
 ## 📂 Installation
 
-1.Clone the repository:
-   ```bash
+## 📂 Installation
+
+
+1. Clone the repository:
    git clone https://github.com/RajsoniTech13/Forum-PHP-Web.git
-2.Move into the project directory:
-  cd Forum-PHP-Web
-3.Import the database (forum_database.sql) into MySQL.
 
-4.Configure config.php with your database credentials.
+2. Move into the project directory:
+   cd Forum-PHP-Web
 
-5.Start a local server using XAMPP or any PHP-supported environment.
+3. Import the database (forum_database.sql) into MySQL.
 
-6.Open index.php in your browser.
+4. Configure config.php with your database credentials.
+
+5. Start a local server using XAMPP or any PHP-supported environment.
+
+6. Open index.php in your browser.
+
+
 
 📩 Contact
 For any issues or queries, reach out at rajsonitechdev@gmail.com.
